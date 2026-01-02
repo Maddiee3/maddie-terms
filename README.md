@@ -1,11 +1,16 @@
 <div align="center">
-  <img
-    src="https://avatars.githubusercontent.com/u/249934568?v=4"
-    alt="Maddie Logo"
-    width="150"
-    height="150"
-    style="border-radius: 50%;"
-  />
+  <table>
+    <tr>
+      <td align="center">
+        <img
+          src="https://avatars.githubusercontent.com/u/249934568?v=4"
+          alt="Maddie Logo"
+          width="150"
+          height="150"
+        />
+      </td>
+    </tr>
+  </table>
 
   <h1>Maddie!</h1>
 
@@ -20,8 +25,6 @@
       alt="Maddie no top.gg"
     />
   </a>
-
-  <br />
 
   <a href="https://discord.gg/zaHWNk4jya">
     <img
