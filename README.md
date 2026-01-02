@@ -70,4 +70,17 @@
       <li><strong>Controle total do servidor:</strong> mantenha a ordem, a segurança e um ambiente saudável para todos.</li>
     </ul>
   </ul>
+
+<ul>
+  <li>🛠️ <strong>Utilidades</strong></li>
+  <small>
+    Tenha informações essenciais sempre à mão. As utilidades da Maddie foram pensadas para facilitar o acesso a dados de servidores, usuários e muito mais, tudo de forma rápida e prática.
+  </small>
+  <ul>
+    <li><strong>Informações do servidor:</strong> visualize detalhes completos do servidor com comandos como serverinfo.</li>
+    <li><strong>Informações de usuários:</strong> consulte dados de membros de forma rápida e organizada com userinfo.</li>
+    <li><strong>Lembretes inteligentes:</strong> crie lembretes para não esquecer compromissos importantes.</li>
+    <li><strong>Praticidade no dia a dia:</strong> centralize informações e ações úteis em poucos comandos.</li>
+  </ul>
+</ul>
 </div>
