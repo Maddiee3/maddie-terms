@@ -9,7 +9,8 @@
 
   [![Servers](https://top.gg/api/widget/servers/1436512754386079919.svg)](https://top.gg/bot/1436512754386079919)
   [![Discord](https://img.shields.io/discord/1446938044333555923?style=flat&logo=discord&logoColor=white&label=discord&color=5865F2)](https://discord.gg/zaHWNk4jya)
-  [![Votes](https://top.gg/api/widget/upvotes/1436512754386079919.svg)](https://top.gg/bot/1436512754386079919/vote)
+
+  [Me adicione](https://discord.com/oauth2/authorize?client_id=1436512754386079919) • [Servidor de Suporte](https://discord.gg/zaHWNk4jya) • [Vote em Mim!](https://top.gg/bot/1436512754386079919/vote)
 
 
   <!-- <a href="https://top.gg/bot/1436512754386079919">
