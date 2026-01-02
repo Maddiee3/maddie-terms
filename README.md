@@ -35,3 +35,7 @@
   &nbsp;•&nbsp;
   <a href="https://top.gg/bot/1436512754386079919/vote">Vote em Mim!</a>
 </div>
+
+<div>
+    <h1>🧸 Sobre a Maddie</h1>
+</div>
