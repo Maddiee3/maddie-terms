@@ -1,16 +1,5 @@
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img
-          src="https://avatars.githubusercontent.com/u/249934568?v=4"
-          alt="Maddie Logo"
-          width="150"
-          height="150"
-        />
-      </td>
-    </tr>
-  </table>
+  <img src="https://avatars.githubusercontent.com/u/249934568?v=4" alt="interchat logo" width="150" height="150" style="border-radius: 50%">
 
   <h1>Maddie!</h1>
 
