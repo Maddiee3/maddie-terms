@@ -7,17 +7,22 @@
     Olá! Eu sou a Maddie, sua companheira no Discord, pronta para ajudar com economia, moderação e várias utilidades para o seu servidor.
   </em></p>
 
-  <a href="https://top.gg/bot/1436512754386079919">
+  [![Servers](https://top.gg/api/widget/servers/1436512754386079919.svg)](https://top.gg/bot/1436512754386079919)
+  [![Discord](https://img.shields.io/discord/1446938044333555923?style=flat&logo=discord&logoColor=white&label=discord&color=5865F2)](https://discord.gg/zaHWNk4jya)
+  [![Votes](https://top.gg/api/widget/upvotes/1436512754386079919.svg)](https://top.gg/bot/1436512754386079919/vote)
+
+
+  <!-- <a href="https://top.gg/bot/1436512754386079919">
     <img
       src="https://top.gg/api/widget/servers/1436512754386079919.svg"
       alt="Maddie no top.gg"
     />
-  </a>&nbsp;
+  </a>
 
   <a href="https://discord.gg/zaHWNk4jya">
     <img
       src="https://img.shields.io/discord/1446938044333555923?style=flat&logo=discord&logoColor=white&label=discord&color=5865F2"
       alt="Servidor de Suporte"
     />
-  </a>
+  </a> -->
 </div>
