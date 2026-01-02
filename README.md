@@ -1,11 +1,10 @@
 <div align="center">
   <img src="./assets/maddie_icon.png" alt="interchat logo" width="150" height="150" style="border-radius: 50%">
 
-  <h1>Maddie!</h1>
+  <h1>Maddie, a solução inteligente para seu servidor.</h1>
 
   <p><em>
-    Olá! Eu me chamo Maddie e sou a sua companheira especializada em economia,
-    moderação e utilidades!
+    Olá! Eu sou a Maddie, sua companheira no Discord, pronta para ajudar com economia, moderação e várias utilidades para o seu servidor.
   </em></p>
 
   <a href="https://top.gg/bot/1436512754386079919">
@@ -13,7 +12,7 @@
       src="https://top.gg/api/widget/servers/1436512754386079919.svg"
       alt="Maddie no top.gg"
     />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
 
   <a href="https://discord.gg/zaHWNk4jya">
     <img
