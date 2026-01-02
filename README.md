@@ -59,4 +59,15 @@
       <li><strong>Domine a economia:</strong> colecione suas pelúcias e lute pela liderança no ranking.</li>
     </ul>
   </ul>
+
+  <ul>
+    <li>🛡️ <strong>Moderação</strong></li>
+    <p>Mantenha seu servidor organizado e seguro, com ferramentas de moderação que facilitam o controle e promovem uma convivência saudável.</p>
+    <ul>
+      <li><strong>Proteção contra links:</strong> mantenha seu servidor seguro com o sistema de antilink.</li>
+      <li><strong>Boas-vindas personalizadas:</strong> receba novos membros com mensagens automáticas e acolhedoras.</li>
+      <li><strong>Segurança avançada:</strong> proteja sua comunidade contra ataques com o sistema antinuke.</li>
+      <li><strong>Controle total do servidor:</strong> mantenha a ordem, a segurança e um ambiente saudável para todos.</li>
+    </ul>
+  </ul>
 </div>
