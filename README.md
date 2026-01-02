@@ -29,9 +29,9 @@
   </a>
 
   <!-- Links -->
-  <a href="https://discord.com/oauth2/authorize?client_id=1436512754386079919">Me adicione em seu servidor!</a>
-  &nbsp;•&nbsp;
   <a href="https://discord.gg/zaHWNk4jya">Servidor de Suporte</a>
+  &nbsp;•&nbsp;
+  <a href="https://discord.com/oauth2/authorize?client_id=1436512754386079919">Me adicione em seu servidor!</a>
   &nbsp;•&nbsp;
   <a href="https://top.gg/bot/1436512754386079919/vote">Vote em Mim!</a>
 </div>
