@@ -59,7 +59,9 @@
     </ul>
   </ul></br>
   <ul>
-    <li>🛡️ <strong>Moderação</strong></li>
+    <li>
+    <img src="./assets/emojis/settings_icon.png" width="24" height="24" alt="Utilidades" /> <strong>Moderação</strong>
+    </li>
     <!-- <small>Mantenha seu servidor organizado e seguro, com ferramentas de moderação que facilitam o controle e promovem uma convivência saudável.</small> -->
     <ul>
       <li><strong>Proteção contra links:</strong> mantenha seu servidor seguro com o sistema de antilink.</li>
