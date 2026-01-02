@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/249934568?v=4" alt="interchat logo" width="150" height="150" style="border-radius: 50%">
+  <img src="./assets/maddie_icon.png" alt="interchat logo" width="150" height="150" style="border-radius: 50%">
 
   <h1>Maddie!</h1>
 
@@ -10,7 +10,7 @@
 
   <a href="https://top.gg/bot/1436512754386079919">
     <img
-      src="https://top.gg/api/widget/status/1436512754386079919.svg"
+      src="https://top.gg/api/widget/servers/1436512754386079919.svg"
       alt="Maddie no top.gg"
     />
   </a>
