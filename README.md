@@ -103,6 +103,8 @@
     <li><a href="https://discord.gg/zaHWNk4jya">Servidor de suporte.</a></li>
     <li><a href="https://discord.com/oauth2/authorize?client_id=1436512754386079919">Me adicione em seus servidor!</a></li>
     <li><a href="https://top.gg/bot/1436512754386079919/vote">Vote em mim no Top.gg!</a></li>
+    <li><a href="./TERMS_OF_SERVICE.md">Termos de serviço da Maddie.</li>
+    <li><a href="./PRIVACE_POLICE.md">Política de Privacidade da Maddie.</li>
   </ul>
 </div>
 
