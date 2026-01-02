@@ -5,5 +5,5 @@
     *Olá! Eu me chamo Maddie e sou a sua companheira especializada em economia, moderação e utilidades!*
 
 [![Discord Bots](https://top.gg/api/widget/servers/1436512754386079919.svg)](https://top.gg/bot/1436512754386079919)
-[![Discord](https://img.shields.io/discord/1436512754386079919?style=flat&logo=discord&logoColor=white&label=discord&color=5865F2)](https://discord.gg/zaHWNk4jya)
+[![Discord](https://img.shields.io/discord/1446938044333555923?style=flat&logo=discord&logoColor=white&label=discord&color=5865F2)](https://discord.gg/zaHWNk4jya)
 </div>
