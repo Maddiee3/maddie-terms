@@ -48,7 +48,6 @@
 
 <div>
   <h2>✨ Funcionalidades</h2>
-
   <ul>
     <li>🧸 <strong>Economia</strong></li>
     <!-- <small>Dispute o topo do ranking de pelúcias, colecione recompensas e torne sua experiência no servidor ainda mais divertida e envolvente.</small> -->
@@ -59,7 +58,6 @@
       <li><strong>Domine a economia:</strong> colecione suas pelúcias e lute pela liderança no ranking.</li>
     </ul>
   </ul></br>
-
   <ul>
     <li>🛡️ <strong>Moderação</strong></li>
     <!-- <small>Mantenha seu servidor organizado e seguro, com ferramentas de moderação que facilitam o controle e promovem uma convivência saudável.</small> -->
@@ -70,17 +68,29 @@
       <li><strong>Controle total do servidor:</strong> mantenha a ordem, a segurança e um ambiente saudável para todos.</li>
     </ul>
   </ul></br>
-
-<ul>
-  <li>🛠️ <strong>Utilidades</strong></li>
-  <!-- <small>
-    Tenha informações essenciais sempre à mão. As utilidades da Maddie foram pensadas para facilitar o acesso a dados de servidores, usuários e muito mais, tudo de forma rápida e prática.
-  </small> -->
   <ul>
-    <li><strong>Informações do servidor:</strong> visualize detalhes completos do servidor com comandos como serverinfo.</li>
-    <li><strong>Informações de usuários:</strong> consulte dados de membros de forma rápida e organizada com userinfo.</li>
-    <li><strong>Lembretes inteligentes:</strong> crie lembretes para não esquecer compromissos importantes.</li>
-    <li><strong>Praticidade no dia a dia:</strong> centralize informações e ações úteis em poucos comandos.</li>
+    <li>🛠️ <strong>Utilidades</strong></li>
+    <!-- <small>
+      Tenha informações essenciais sempre à mão. As utilidades da Maddie foram pensadas para facilitar o acesso a dados de servidores, usuários e muito mais, tudo de forma rápida e prática.
+    </small> -->
+    <ul>
+      <li><strong>Informações do servidor:</strong> visualize detalhes completos do servidor com comandos como serverinfo.</li>
+      <li><strong>Informações de usuários:</strong> consulte dados de membros de forma rápida e organizada com userinfo.</li>
+      <li><strong>Lembretes inteligentes:</strong> crie lembretes para não esquecer compromissos importantes.</li>
+      <li><strong>Praticidade no dia a dia:</strong> centralize informações e ações úteis em poucos comandos.</li>
+    </ul>
   </ul>
-</ul>
+</div>
+
+<div>
+  <h2>🤖 Principais comandos</h2>
+  <p>A Maddie utiliza o <strong>prefixo m.</strong>, permitindo que você execute comandos de forma rápida e intuitiva, com acesso fácil a todas as funcionalidades do bot.</p>
+  <ul>
+    <li><strong>m.ajuda</strong>: veja o menu de ajuda da Maddie que mostra todos os comandos disponíveis para uso.</li>
+    <li><strong>m.daily</strong>: receba sua recompensa diária das suas tão sonhadas pelúcias!</li>
+    <li><strong>m.vote</strong>: vote na Maddie no <a href="https://top.gg/bot/1436512754386079919/vote">Top.GG</a> e receba pelúcias como recompensa.</li>
+    <li><strong>m.blackjack</strong>: aposte pelúcias em um jogo de blackjack contra a Maddie.</li>
+    <li><strong>m.rank</strong>: veja o ranking de maiores colecionadores de pelúcias.</li>
+
+  </ul>
 </div>
