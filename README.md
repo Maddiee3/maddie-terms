@@ -13,7 +13,7 @@
       src="https://top.gg/api/widget/servers/1436512754386079919.svg"
       alt="Maddie no top.gg"
     />
-  </a>
+  </a>&nbsp;&nbsp;
 
   <a href="https://discord.gg/zaHWNk4jya">
     <img
