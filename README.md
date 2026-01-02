@@ -58,7 +58,7 @@
       <li><strong>Ranking competitivo:</strong> acompanhe os maiores colecionadores de pelúcias!</li>
       <li><strong>Domine a economia:</strong> colecione suas pelúcias e lute pela liderança no ranking.</li>
     </ul>
-  </ul>
+  </ul></br>
 
   <ul>
     <li>🛡️ <strong>Moderação</strong></li>
@@ -69,7 +69,7 @@
       <li><strong>Segurança avançada:</strong> proteja sua comunidade contra ataques com o sistema antinuke.</li>
       <li><strong>Controle total do servidor:</strong> mantenha a ordem, a segurança e um ambiente saudável para todos.</li>
     </ul>
-  </ul>
+  </ul></br>
 
 <ul>
   <li>🛠️ <strong>Utilidades</strong></li>
