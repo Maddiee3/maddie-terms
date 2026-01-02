@@ -51,7 +51,7 @@
 
   <ul>
     <li>🧸 <strong>Economia</strong></li>
-    <small>Dispute o topo do ranking de pelúcias, colecione recompensas e torne sua experiência no servidor ainda mais divertida e envolvente.</small>
+    <!-- <small>Dispute o topo do ranking de pelúcias, colecione recompensas e torne sua experiência no servidor ainda mais divertida e envolvente.</small> -->
     <ul>
       <li><strong>Pelúcias caindo do céu:</strong> participe de drops que ocorrem no meu <a href="https://discord.gg/zaHWNk4jya">servidor de suporte</a>.</li>
       <li><strong>Jogos e apostas:</strong> participe de jogos para ganhar ou arriscar suas tão sonhadas pelúcias.</li>
@@ -62,7 +62,7 @@
 
   <ul>
     <li>🛡️ <strong>Moderação</strong></li>
-    <small>Mantenha seu servidor organizado e seguro, com ferramentas de moderação que facilitam o controle e promovem uma convivência saudável.</small>
+    <!-- <small>Mantenha seu servidor organizado e seguro, com ferramentas de moderação que facilitam o controle e promovem uma convivência saudável.</small> -->
     <ul>
       <li><strong>Proteção contra links:</strong> mantenha seu servidor seguro com o sistema de antilink.</li>
       <li><strong>Boas-vindas personalizadas:</strong> receba novos membros com mensagens automáticas e acolhedoras.</li>
@@ -73,9 +73,9 @@
 
 <ul>
   <li>🛠️ <strong>Utilidades</strong></li>
-  <small>
+  <!-- <small>
     Tenha informações essenciais sempre à mão. As utilidades da Maddie foram pensadas para facilitar o acesso a dados de servidores, usuários e muito mais, tudo de forma rápida e prática.
-  </small>
+  </small> -->
   <ul>
     <li><strong>Informações do servidor:</strong> visualize detalhes completos do servidor com comandos como serverinfo.</li>
     <li><strong>Informações de usuários:</strong> consulte dados de membros de forma rápida e organizada com userinfo.</li>
