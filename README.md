@@ -28,8 +28,6 @@
     />
   </a>
 
-  <br /><br />
-
   <!-- Links -->
   <a href="https://discord.com/oauth2/authorize?client_id=1436512754386079919">Me adicione em seu servidor!</a>
   &nbsp;•&nbsp;
