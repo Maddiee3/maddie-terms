@@ -37,5 +37,11 @@
 </div>
 
 <div>
-    <h1>🧸 Sobre a Maddie</h1>
+    <h2>🧸 Sobre a Maddie</h2>
+    <p>A <strong>Maddie</strong>, uma amante de pelúcias, foi criada com o <strong>intuito de facilitar sua vida</strong> no Discord por meio de ferramentas de utilidade, gerar entretenimento para sua comunidade, gerenciar servidores com soluções modernas e intuitivas e oferecer um sistema de economia baseado em pelúcias, tornando a experiência mais divertida e interativa.</p>
+    <p>
+    Cada recurso da Maddie foi pensado com carinho para tornar o dia a dia no
+    Discord mais leve, divertido e organizado, ajudando sua comunidade a crescer
+    de forma saudável.
+    </p>
 </div>
