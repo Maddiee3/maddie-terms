@@ -97,6 +97,16 @@
   </ul>
 </div>
 
+<div id="links">
+  <h2>🔗 Links Úteis</h2>
+  <ul>
+    <li><a href="https://discord.gg/zaHWNk4jya">Servidor de suporte.</a></li>
+    <li><a href="https://discord.com/oauth2/authorize?client_id=1436512754386079919">Me adicione em seus servidor!</a></li>
+    <li><a href="https://top.gg/bot/1436512754386079919/vote">Vote em mim no Top.gg!</a></li>
+  </ul>
+</div>
+
 <div>
-  <h2>📞 Suporte</h2>
+  <h2>📞 Precisa de ajuda?</h2>
+  <p>Caso tenha alguma dúvida ou algum bug para reportar, a <strong>Equipe da Maddie</strong> pede que você entre no servidor de suporte localizado em na categoria acima, clique <a href="#links">aqui</a> para ser redirecionado para a categoria acima.</p>
 </div>
