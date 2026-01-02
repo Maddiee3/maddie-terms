@@ -34,12 +34,10 @@
   <a href="https://discord.com/oauth2/authorize?client_id=1436512754386079919">Me adicione em seu servidor!</a>
   &nbsp;•&nbsp;
   <a href="https://top.gg/bot/1436512754386079919/vote">Vote em Mim!</a>
-</div>
+</div></br>
 
 <div>
-    <div aling="center">
-      <h2>🧸 Sobre a Maddie</h2>
-    </div>
+    <h2>🧸 Sobre a Maddie</h2>
     <p>A <strong>Maddie</strong>, uma amante de pelúcias, foi criada com o <strong>intuito de facilitar sua vida</strong> no Discord por meio de ferramentas de utilidade, gerar entretenimento para sua comunidade, gerenciar servidores com soluções modernas e intuitivas e oferecer um sistema de economia baseado em pelúcias, tornando a experiência mais divertida e interativa.</p>
     <p>
     Cada recurso da Maddie foi pensado com carinho para tornar o dia a dia no
