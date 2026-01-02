@@ -34,7 +34,7 @@
   <a href="https://discord.com/oauth2/authorize?client_id=1436512754386079919">Me adicione em seu servidor!</a>
   &nbsp;•&nbsp;
   <a href="https://top.gg/bot/1436512754386079919/vote">Vote em Mim!</a>
-</div></br>
+</div>
 
 <div>
     <h2>🧸 Sobre a Maddie</h2>
@@ -47,5 +47,16 @@
 </div>
 
 <div>
+  <h2>✨ Funcionalidades</h2>
 
+  <ul>
+    <li>🧸 <strong>Economia</strong></li>
+    <p>Dispute o topo do ranking de pelúcias, colecione recompensas e torne sua experiência no servidor ainda mais divertida e envolvente.</p>
+    <ul>
+      <li><strong>Pelúcias caindo do céu:</strong> participe de drops que ocorrem no meu <a href="https://discord.gg/zaHWNk4jya">servidor de suporte</a>.</li>
+      <li><strong>Jogos e apostas:</strong> participe de jogos para ganhar ou arriscar suas tão sonhadas pelúcias.</li>
+      <li><strong>Ranking competitivo:</strong> acompanhe os maiores colecionadores de pelúcias!</li>
+      <li><strong>Domine a economia:</strong> colecione suas pelúcias e lute pela liderança no ranking.</li>
+    </ul>
+  </ul>
 </div>
