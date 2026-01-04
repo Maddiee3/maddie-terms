@@ -6,7 +6,7 @@
     height="150"
   />
   <h1>Política de Privacidade</h1>
-  <p><strong>Última atualização:</strong> 2026</p>
+  <p><strong>Última atualização:</strong> 03 de janeiro de 2026</p>
 </div>
 
 <div>
