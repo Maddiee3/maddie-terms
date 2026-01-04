@@ -5,7 +5,7 @@
     width="150"
     height="150"
   />
-  <h1>Termos de Serviço — Maddie</h1>
+  <h1>Termos de Serviço</h1>
   <p><strong>Última atualização:</strong> 03 de janeiro de 2026</p>
 </div>
 
